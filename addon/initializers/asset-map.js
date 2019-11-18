@@ -1,3 +1,4 @@
+import fetch from 'fetch';
 import RSVP from 'rsvp';
 import AssetMap from '../services/asset-map';
 import { typeOf as getTypeOf } from '@ember/utils';
